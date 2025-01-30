@@ -1,4 +1,4 @@
-  // Get video element and other controls
+ // Get video element and other controls
     const video = document.getElementById('player__video');
     const playerButton = document.getElementById('player__button');
     const progressBar = document.getElementById('progress');
